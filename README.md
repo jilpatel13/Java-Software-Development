@@ -5,3 +5,7 @@ ERP system for car sales enterprise helps to create organized collection of sale
 ### Login Screen
 
 <img src="login_screen.PNG">
+
+### Home Screen
+
+<img src="">
