@@ -1,7 +1,5 @@
 # ERP SYSTEM with MYSQL <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/ios/100/000000/mysql-logo.png"/>
 
--------------------------------------------
-
 This project based on java with integration of MySQL. 
 ERP system for car sales enterprise helps to create organized collection of sales data using database system & User Interface.
 
